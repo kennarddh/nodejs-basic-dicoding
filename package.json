@@ -1,24 +1,28 @@
 {
-  "name": "nodejs-basic",
-  "version": "1.0.0",
-  "description": "Nodejs basic dicoding",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/kennarddh/nodejs-basic-dicoding.git"
-  },
-  "keywords": [
-    "dicoding",
-    "nodejs",
-    "nodejs-basic"
-  ],
-  "author": "kennarddh <kennarddh@gmail.com>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/kennarddh/nodejs-basic-dicoding/issues"
-  },
-  "homepage": "https://github.com/kennarddh/nodejs-basic-dicoding#readme"
+	"name": "nodejs-basic",
+	"version": "1.0.0",
+	"description": "Nodejs basic dicoding",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/kennarddh/nodejs-basic-dicoding.git"
+	},
+	"keywords": [
+		"dicoding",
+		"nodejs",
+		"nodejs-basic"
+	],
+	"author": "kennarddh <kennarddh@gmail.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/kennarddh/nodejs-basic-dicoding/issues"
+	},
+	"homepage": "https://github.com/kennarddh/nodejs-basic-dicoding#readme",
+	"dependencies": {
+		"lodash": "^4.17.21",
+		"moment": "^2.29.3"
+	}
 }
