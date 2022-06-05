@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-basic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kennarddh/nodejs-basic-dicoding.git"
+  },
+  "keywords": [
+    "dicoding",
+    "nodejs",
+    "nodejs-basic"
+  ],
+  "author": "kennarddh <kennarddh@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kennarddh/nodejs-basic-dicoding/issues"
+  },
+  "homepage": "https://github.com/kennarddh/nodejs-basic-dicoding#readme"
+}
